@@ -1,0 +1,13 @@
+/home/golden/Work/injective/faucet/target/debug/deps/libcw20-0a08bc5974f113d4.rmeta: /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/lib.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/balance.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/coin.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/denom.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/helpers.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/logo.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/msg.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/query.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/receiver.rs
+
+/home/golden/Work/injective/faucet/target/debug/deps/cw20-0a08bc5974f113d4.d: /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/lib.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/balance.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/coin.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/denom.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/helpers.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/logo.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/msg.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/query.rs /home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/receiver.rs
+
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/lib.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/balance.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/coin.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/denom.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/helpers.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/logo.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/msg.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/query.rs:
+/home/golden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cw20-0.16.0/src/receiver.rs:
